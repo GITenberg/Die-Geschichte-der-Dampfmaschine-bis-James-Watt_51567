@@ -1,5 +1,8 @@
 _repo: Die-Geschichte-der-Dampfmaschine-bis-James-Watt_51567
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51567-h/images/cover.jpg
 creator:
   author:
     agent_name: Geitel, Max
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '44210'
     url: http://www.gutenberg.org/2009/agents/44210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51567#Die-Geschichte-der-Dampfmaschine-bis-James-Watt
 gutenberg_issued: '2016-03-26'
 gutenberg_type: Text
 identifiers:
